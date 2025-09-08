@@ -1,0 +1,2 @@
+../Src/readCommand.c:17:6:USART2_IRQHandler	8	static
+../Src/readCommand.c:23:6:readCommand	16	static

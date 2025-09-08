@@ -1,0 +1,3 @@
+../Inc/core_cm0.h:623:22:__NVIC_EnableIRQ	2
+../Inc/core_cm0.h:730:22:__NVIC_SetPriority	2
+../Src/bluetoothInit.c:10:6:bluetoothInit	1
